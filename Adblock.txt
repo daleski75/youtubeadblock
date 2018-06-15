@@ -179,7 +179,6 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 gstatic.com
-0.0.0.0 clients1.google.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
